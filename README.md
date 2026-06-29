@@ -1,15 +1,15 @@
-# Lab 00: Lab_Name
+# Project 00: Project Name
 
 ## Objectives
 - Objective
 
-## Program Description
+## Project Description
 Lorem ipsum.
 
 ## Instructions
 1. Instruction
 
-## Program Specifications
+## Project Specifications
 - Specification
 
 ## Sample Code
@@ -27,7 +27,6 @@ output
 ```
 
 ## Coding Standards
-- Follow the program specifications exactly.
 - Use meaningful identifiers and follow Java naming conventions.
 - Remove all auto-generated comments and unused code.
 - Document code using [JavaDoc](https://www.baeldung.com/javadoc), including:

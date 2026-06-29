@@ -12,7 +12,6 @@
     "**/.devcontainer": true,
     "**/.github": true,
     "**/.gitignore": true,
-    "**/.test": true,
     "**/.vscode": true
   },
 
@@ -28,10 +27,6 @@
   "markdown.preview.doubleClickToSwitchToEditor": false,
 
   "java.project.sourcePaths": [
-    ".",
-    ".test"
-  ],
-  "java.project.referencedLibraries": [
-    ".test/**/*.jar"
+    "."
   ]
 }
